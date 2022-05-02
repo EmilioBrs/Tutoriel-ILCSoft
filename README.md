@@ -1,5 +1,4 @@
 # Tutoriel-ILCSoft
 ```
-git clone https://github.com/iLCSoft/iLCUtil.git HEAD
-git fetch origin
+git clone https://github.com/iLCSoft/ILDConfig.git -b v02-02-02
 ```
