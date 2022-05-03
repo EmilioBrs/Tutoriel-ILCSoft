@@ -9,6 +9,7 @@
 
 -[Create a ROOT ntuple from LCIO](https://github.com/EmilioBrs/Tutoriel-ILCSoft/edit/main/README.md#create-a-ROOT-ntuple-from-LCIO)
 
+-[Build the MyMarlin example package](https://github.com/EmilioBrs/Tutoriel-ILCSoft/edit/main/README.md#build-the-mymarlin-example-package)
 ```
 git clone https://github.com/iLCSoft/ILDConfig.git -b v02-02-02
 ```
@@ -76,3 +77,4 @@ après root [0] :
 ```
 root -l read_slcio.C
 ```
+
