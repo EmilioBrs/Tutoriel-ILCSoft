@@ -75,5 +75,4 @@ après root [0] :
 ## Reading an slcio file via ROOT
 ```
 root -l read_slcio.C
-
-
+```
